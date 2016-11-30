@@ -1,0 +1,2 @@
+#"Pyth".q
+print"Python"
