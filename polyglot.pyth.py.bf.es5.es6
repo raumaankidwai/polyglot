@@ -1,2 +1,2 @@
  //1T1"Pyth" "++++++[>+++++++++++<-]>.++++".q
-try{console.log(a=>"ES6")}catch(e){console.log("ES5")}
+with(console)try{eval('log((a=>"ES6")())')}catch(e){log("ES5")}
